@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+imbalanced-learn
+mlflow-skinny
+matplotlib
+protobuf==3.20.3
+xgboost
